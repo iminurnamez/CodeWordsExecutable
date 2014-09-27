@@ -14,3 +14,8 @@ Drag/Drop to manipulate code
 ESC to exit
 
 
+Running the Game:
+
+Run the run_game.bat batch file
+
+
